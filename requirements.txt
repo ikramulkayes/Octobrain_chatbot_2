@@ -15,3 +15,4 @@ google-generativeai==0.8.4
 langchain==0.3.19
 langchain-core==0.3.59
 langchain-text-splitters==0.3.6
+langchain-google-genai==2.0.1
