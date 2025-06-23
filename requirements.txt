@@ -12,3 +12,7 @@ torch==2.6.0
 transformers==4.49.0
 tqdm==4.67.1
 google-generativeai==0.8.4
+langchain==0.3.19
+langchain-core==0.3.59
+langchain-google-genai==2.1.4
+langchain-text-splitters==0.3.6
